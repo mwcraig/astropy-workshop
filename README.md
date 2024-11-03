@@ -33,7 +33,7 @@ the presentation topics.
 #### Day 1: Mon, December 2, 2024
 
 * 10:00 AM - 10:30 AM: Intro to astropy and orientation to the astropy ecosystem
-* 10:30 AM - 11:00 AM: Science with Astropy (exact title TBD) by Matt Craig
+* 10:30 AM - 11:00 AM: More astropy fundamentals and science examples
 * 11:00 AM - 11:30 PM: Visualization options with astropy and Python by Erik Tollerud (tentative)
 * 11:30 AM - 12:00 PM: Visualization Q&A / User stories
 * 12:00 PM - 01:30 PM: Lunch
