@@ -22,11 +22,11 @@
     3. Matching catalogs (10 min)
 6. (1:35) Plotting time series data
     1. Intro (20 min)
-    2. TimeSeries in astropy (5 min)
 7. (2:00) Break -- 10 min
 8. (2:10) More time series
+    1. TimeSeries in astropy (5 min)
     1. Folded light curves (10 min)
-    2. More complicated plots (20 min)
+    1. More complicated plots (20 min)
 9. (2:40) Catch-up/Q&A (20 min)
 10. (3:00) Lunch
 5. (1:05) Getting images into Python
